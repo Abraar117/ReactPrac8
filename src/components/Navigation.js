@@ -1,4 +1,4 @@
-function navbar() {
+function Navigation() {
     return(
         <nav class="navbar navbar-expand-md navbar-light bg-light sticky-top">
 	    <div class="container-fluid">
@@ -26,3 +26,5 @@ function navbar() {
         </nav>
     )
 }
+
+export default Navigation;
