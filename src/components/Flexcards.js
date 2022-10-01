@@ -94,7 +94,7 @@ function Flexcards() {
                             <div class="sub">iuhjiofehsfs</div>
                         </div>
                     </div>
-                s</div>
+                s</div><i></i>
             </div></>
     )
 }
